@@ -779,11 +779,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/acceptedNameUsage-2021-06-21">http://rs.tdwg.org/dwc/terms/version/acceptedNameUsage-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/acceptedNameUsage-2021-06-25">http://rs.tdwg.org/dwc/terms/version/acceptedNameUsage-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -825,11 +825,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/acceptedNameUsageID-2021-06-21">http://rs.tdwg.org/dwc/terms/version/acceptedNameUsageID-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/acceptedNameUsageID-2021-06-25">http://rs.tdwg.org/dwc/terms/version/acceptedNameUsageID-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -1391,11 +1391,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/associatedOccurrences-2021-06-21">http://rs.tdwg.org/dwc/terms/version/associatedOccurrences-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/associatedOccurrences-2021-06-25">http://rs.tdwg.org/dwc/terms/version/associatedOccurrences-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -1445,11 +1445,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/associatedOrganisms-2021-06-21">http://rs.tdwg.org/dwc/terms/version/associatedOrganisms-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/associatedOrganisms-2021-06-25">http://rs.tdwg.org/dwc/terms/version/associatedOrganisms-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -1495,11 +1495,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/associatedReferences-2021-06-21">http://rs.tdwg.org/dwc/terms/version/associatedReferences-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/associatedReferences-2021-06-25">http://rs.tdwg.org/dwc/terms/version/associatedReferences-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -1587,11 +1587,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/associatedTaxa-2021-06-21">http://rs.tdwg.org/dwc/terms/version/associatedTaxa-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/associatedTaxa-2021-06-25">http://rs.tdwg.org/dwc/terms/version/associatedTaxa-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -1725,11 +1725,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/basisOfRecord-2021-06-21">http://rs.tdwg.org/dwc/terms/version/basisOfRecord-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/basisOfRecord-2021-06-25">http://rs.tdwg.org/dwc/terms/version/basisOfRecord-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -1905,7 +1905,7 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
@@ -1925,7 +1925,7 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Examples</td>
-			<td>Occurrence example: `Museum of Vertebrate Zoology, UC Berkeley. MVZ Mammal Collection (Arctos). Record ID: <a href="http://arctos.database.museum/guid/MVZ:Mamm:165861?seid=101356">http://arctos.database.museum/guid/MVZ:Mamm:165861?seid=101356</a>. Source: <a href="http://ipt.vertnet.org:8080/ipt/resource.do?r=mvz_mammal.`">http://ipt.vertnet.org:8080/ipt/resource.do?r=mvz_mammal.`</a> Taxon example: `<a href="https://www.gbif.org/species/2439608">https://www.gbif.org/species/2439608</a> Source: GBIF Taxonomic Backbone`, Event example: `Rand, K.M., Logerwell, E.A. The first demersal trawl survey of benthic fish and invertebrates in the Beaufort Sea since the late 1970s. Polar Biol 34, 475–488 (2011). <a href="https://doi.org/10.1007/s00300-010-0900-2`">https://doi.org/10.1007/s00300-010-0900-2`</a></td>
+			<td>Occurrence example: `Museum of Vertebrate Zoology, UC Berkeley. MVZ Mammal Collection (Arctos). Record ID: <a href="http://arctos.database.museum/guid/MVZ:Mamm:165861?seid=101356">http://arctos.database.museum/guid/MVZ:Mamm:165861?seid=101356</a>. Source: <a href="http://ipt.vertnet.org:8080/ipt/resource.do?r=mvz_mammal.`">http://ipt.vertnet.org:8080/ipt/resource.do?r=mvz_mammal.`</a> Taxon example: `<a href="https://www.gbif.org/species/2439608">https://www.gbif.org/species/2439608</a> Source: GBIF Taxonomic Backbone`, Event example: `Rand, K.M., Logerwell, E.A. The first demersal trawl survey of benthic fish and invertebrates in the Beaufort Sea since the late 1970s. Polar Biol 34, 475–488 (2011). <a href="https://doi.org/10.1007/s00300-010-0900-2`">https://doi.org/10.1007/s00300-010-0900-2`</a></td>
 		</tr>
 		<tr>
 			<td>ABCD equivalence</td>
@@ -2291,11 +2291,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/coordinateUncertaintyInMeters-2021-06-21">http://rs.tdwg.org/dwc/terms/version/coordinateUncertaintyInMeters-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/coordinateUncertaintyInMeters-2021-06-25">http://rs.tdwg.org/dwc/terms/version/coordinateUncertaintyInMeters-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -2333,11 +2333,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/country-2021-06-21">http://rs.tdwg.org/dwc/terms/version/country-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/country-2021-06-25">http://rs.tdwg.org/dwc/terms/version/country-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -2471,11 +2471,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/cultivarEpithet-2021-06-21">http://rs.tdwg.org/dwc/terms/version/cultivarEpithet-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/cultivarEpithet-2021-06-25">http://rs.tdwg.org/dwc/terms/version/cultivarEpithet-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -4985,11 +4985,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/iri/version/footprintSRS-2021-06-21">http://rs.tdwg.org/dwc/iri/version/footprintSRS-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/iri/version/footprintSRS-2021-06-25">http://rs.tdwg.org/dwc/iri/version/footprintSRS-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -5027,11 +5027,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/footprintSRS-2021-06-21">http://rs.tdwg.org/dwc/terms/version/footprintSRS-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/footprintSRS-2021-06-25">http://rs.tdwg.org/dwc/terms/version/footprintSRS-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -5333,11 +5333,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/genericName-2021-06-21">http://rs.tdwg.org/dwc/terms/version/genericName-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/genericName-2021-06-25">http://rs.tdwg.org/dwc/terms/version/genericName-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -5961,11 +5961,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/iri/version/georeferenceVerificationStatus-2021-06-21">http://rs.tdwg.org/dwc/iri/version/georeferenceVerificationStatus-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/iri/version/georeferenceVerificationStatus-2021-06-25">http://rs.tdwg.org/dwc/iri/version/georeferenceVerificationStatus-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -6003,11 +6003,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/georeferenceVerificationStatus-2021-06-21">http://rs.tdwg.org/dwc/terms/version/georeferenceVerificationStatus-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/georeferenceVerificationStatus-2021-06-25">http://rs.tdwg.org/dwc/terms/version/georeferenceVerificationStatus-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -7117,11 +7117,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/identifiedByID-2021-06-21">http://rs.tdwg.org/dwc/terms/version/identifiedByID-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/identifiedByID-2021-06-25">http://rs.tdwg.org/dwc/terms/version/identifiedByID-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -7293,11 +7293,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/individualCount-2021-06-21">http://rs.tdwg.org/dwc/terms/version/individualCount-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/individualCount-2021-06-25">http://rs.tdwg.org/dwc/terms/version/individualCount-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -7473,11 +7473,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/infragenericEpithet-2021-06-21">http://rs.tdwg.org/dwc/terms/version/infragenericEpithet-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/infragenericEpithet-2021-06-25">http://rs.tdwg.org/dwc/terms/version/infragenericEpithet-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -7519,11 +7519,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/infraspecificEpithet-2021-06-21">http://rs.tdwg.org/dwc/terms/version/infraspecificEpithet-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/infraspecificEpithet-2021-06-25">http://rs.tdwg.org/dwc/terms/version/infraspecificEpithet-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -8227,11 +8227,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/lifeStage-2021-06-21">http://rs.tdwg.org/dwc/terms/version/lifeStage-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/lifeStage-2021-06-25">http://rs.tdwg.org/dwc/terms/version/lifeStage-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -8277,11 +8277,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/iri/version/lifeStage-2021-06-21">http://rs.tdwg.org/dwc/iri/version/lifeStage-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/iri/version/lifeStage-2021-06-25">http://rs.tdwg.org/dwc/iri/version/lifeStage-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -8407,11 +8407,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/locality-2021-06-21">http://rs.tdwg.org/dwc/terms/version/locality-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/locality-2021-06-25">http://rs.tdwg.org/dwc/terms/version/locality-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -8793,11 +8793,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/MaterialCitation-2021-06-21">http://rs.tdwg.org/dwc/terms/version/MaterialCitation-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/MaterialCitation-2021-06-25">http://rs.tdwg.org/dwc/terms/version/MaterialCitation-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -9681,11 +9681,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/iri/version/measurementValue-2021-06-21">http://rs.tdwg.org/dwc/iri/version/measurementValue-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/iri/version/measurementValue-2021-06-25">http://rs.tdwg.org/dwc/iri/version/measurementValue-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -10033,11 +10033,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/nameAccordingTo-2021-06-21">http://rs.tdwg.org/dwc/terms/version/nameAccordingTo-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/nameAccordingTo-2021-06-25">http://rs.tdwg.org/dwc/terms/version/nameAccordingTo-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -10049,11 +10049,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Notes</td>
-			<td>This term provides context to the `scientificName`. Together with the `scientificName`, separated by ‘sensu’ or ‘sec.’, it forms the taxon concept label, which may be seen as having the same relationship to `taxonConceptID` as, for example, `acceptedNameUsage` has to `acceptedNameUsageID`. When not provided, in Taxon Core data sets the `nameAccordingTo` can be taken to be the data set. In this case the data set mostly provides sufficient context to infer the delimitation of the taxon and its relationship with other taxa. In Occurrence Core data sets, when not provided, `nameAccordingTo` can be an underlying taxonomy of the data set, e.g. Plants of the World Online (<a href="http://powo.science.kew.org/">http://powo.science.kew.org/</a>) for vascular plant records in iNaturalist (in which case it should be provided), or, which is the case for most `PreservedSpecimen` data sets, the `Identification`, in which case there is no further context.</td>
+			<td>This term provides context to the `scientificName`. Together with the `scientificName`, separated by ‘sensu’ or ‘sec.’, it forms the taxon concept label. When not provided explicitly within a Taxon Core data set, the `nameAccordingTo` can be taken to be the data set itself. In this case the data set mostly provides sufficient context to infer the delimitation of the taxon and its relationship with other taxa. When not provided explicitly within an Occurrence Core data set, `nameAccordingTo` can sometimes be an underlying taxonomy of the data set, such as Plants of the World Online (<a href="http://powo.science.kew.org/">http://powo.science.kew.org/</a>) for vascular plant records in iNaturalist, though in such cases `nameAccordingTo` should still be provided explicitly. In all other cases where there is no further context, the `nameAccordingTo` is basically determined by the `Identification` information within the Occurrence record.</td>
 		</tr>
 		<tr>
 			<td>Examples</td>
-			<td>`Franz NM, Cardona-Duque J (2013) Description of two new species and phylogenetic reassessment of Perelleschus Wibmer & O’Brien, 1986 (Coleoptera: Curculionidae), with a complete taxonomic concept history of Perelleschus sec. Franz & Cardona-Duque, 2013. Syst Biodivers. 11: 209–236.` (as the full citation of the Franz & Cardona-Duque (2013) in Perelleschus splendida sec. Franz & Cardona-Duque (2013))</td>
+			<td>`Franz NM, Cardona-Duque J (2013) Description of two new species and phylogenetic reassessment of Perelleschus Wibmer & O’Brien, 1986 (Coleoptera: Curculionidae), with a complete taxonomic concept history of Perelleschus sec. Franz & Cardona-Duque, 2013. Syst Biodivers. 11: 209–236.` (as the full citation of the Franz & Cardona-Duque (2013) in Perelleschus splendida sec. Franz & Cardona-Duque (2013)).</td>
 		</tr>
 		<tr>
 			<td>ABCD equivalence</td>
@@ -11047,11 +11047,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/occurrenceStatus-2021-06-21">http://rs.tdwg.org/dwc/terms/version/occurrenceStatus-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/occurrenceStatus-2021-06-25">http://rs.tdwg.org/dwc/terms/version/occurrenceStatus-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -11277,11 +11277,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/organismQuantity-2021-06-21">http://rs.tdwg.org/dwc/terms/version/organismQuantity-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/organismQuantity-2021-06-25">http://rs.tdwg.org/dwc/terms/version/organismQuantity-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -11515,11 +11515,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/originalNameUsage-2021-06-21">http://rs.tdwg.org/dwc/terms/version/originalNameUsage-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/originalNameUsage-2021-06-25">http://rs.tdwg.org/dwc/terms/version/originalNameUsage-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -11561,11 +11561,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/originalNameUsageID-2021-06-21">http://rs.tdwg.org/dwc/terms/version/originalNameUsageID-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/originalNameUsageID-2021-06-25">http://rs.tdwg.org/dwc/terms/version/originalNameUsageID-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -11791,11 +11791,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/parentNameUsageID-2021-06-21">http://rs.tdwg.org/dwc/terms/version/parentNameUsageID-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/parentNameUsageID-2021-06-25">http://rs.tdwg.org/dwc/terms/version/parentNameUsageID-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -12355,11 +12355,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/recordedByID-2021-06-21">http://rs.tdwg.org/dwc/terms/version/recordedByID-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/recordedByID-2021-06-25">http://rs.tdwg.org/dwc/terms/version/recordedByID-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -12485,7 +12485,7 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
@@ -12749,11 +12749,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/relationshipOfResource-2021-06-21">http://rs.tdwg.org/dwc/terms/version/relationshipOfResource-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/relationshipOfResource-2021-06-25">http://rs.tdwg.org/dwc/terms/version/relationshipOfResource-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -12769,7 +12769,7 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Examples</td>
-			<td>`sameAs`, `duplicate of`, `mother of`, `offspring of`, `sibling of`, `parasite of`, `host of`, `valid synonym of`, `located within`, `pollinator of members of taxon`, `pollinated specific plant`, `pollinated by members of taxon`</td>
+			<td>`sameAs`, `duplicate of`, `mother of`, `offspring of`, `sibling of`, `parasite of`, `host of`, `valid synonym of`, `located within`, `pollinator of members of taxon`, `pollinated specific plant`, `pollinated by members of taxon`, ` on slab with`</td>
 		</tr>
 		<tr>
 			<td>ABCD equivalence</td>
@@ -12795,11 +12795,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/relationshipOfResourceID-2021-06-21">http://rs.tdwg.org/dwc/terms/version/relationshipOfResourceID-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/relationshipOfResourceID-2021-06-25">http://rs.tdwg.org/dwc/terms/version/relationshipOfResourceID-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -14161,11 +14161,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/iri/version/samplingProtocol-2021-06-21">http://rs.tdwg.org/dwc/iri/version/samplingProtocol-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/iri/version/samplingProtocol-2021-06-25">http://rs.tdwg.org/dwc/iri/version/samplingProtocol-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -14207,11 +14207,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/samplingProtocol-2021-06-21">http://rs.tdwg.org/dwc/terms/version/samplingProtocol-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/samplingProtocol-2021-06-25">http://rs.tdwg.org/dwc/terms/version/samplingProtocol-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -14253,11 +14253,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/scientificName-2021-06-21">http://rs.tdwg.org/dwc/terms/version/scientificName-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/scientificName-2021-06-25">http://rs.tdwg.org/dwc/terms/version/scientificName-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -14705,11 +14705,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/subfamily-2021-06-21">http://rs.tdwg.org/dwc/terms/version/subfamily-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/subfamily-2021-06-25">http://rs.tdwg.org/dwc/terms/version/subfamily-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -15719,11 +15719,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/verbatimIdentification-2021-06-21">http://rs.tdwg.org/dwc/terms/version/verbatimIdentification-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/verbatimIdentification-2021-06-25">http://rs.tdwg.org/dwc/terms/version/verbatimIdentification-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -15807,11 +15807,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/verbatimLocality-2021-06-21">http://rs.tdwg.org/dwc/terms/version/verbatimLocality-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/verbatimLocality-2021-06-25">http://rs.tdwg.org/dwc/terms/version/verbatimLocality-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -16113,11 +16113,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/terms/version/verticalDatum-2021-06-21">http://rs.tdwg.org/dwc/terms/version/verticalDatum-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/terms/version/verticalDatum-2021-06-25">http://rs.tdwg.org/dwc/terms/version/verticalDatum-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
@@ -16159,11 +16159,11 @@ Due to the requirements of [Section 1.4.3 of the Darwin Core RDF Guide](../rdf/#
 		</tr>
 		<tr>
 			<td>Modified</td>
-			<td>2021-06-21</td>
+			<td>2021-06-25</td>
 		</tr>
 		<tr>
 			<td>Term version IRI</td>
-			<td><a href="http://rs.tdwg.org/dwc/iri/version/verticalDatum-2021-06-21">http://rs.tdwg.org/dwc/iri/version/verticalDatum-2021-06-21</a></td>
+			<td><a href="http://rs.tdwg.org/dwc/iri/version/verticalDatum-2021-06-25">http://rs.tdwg.org/dwc/iri/version/verticalDatum-2021-06-25</a></td>
 		</tr>
 		<tr>
 			<td>Label</td>
